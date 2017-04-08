@@ -13,7 +13,7 @@
             <option value="$PROJECT_DIR$/material-design" />
             <option value="$PROJECT_DIR$/material-dialog" />
             <option value="$PROJECT_DIR$/material-progressbar" />
-            <option value="$PROJECT_DIR$/suppor-design" />
+            <option value="$PROJECT_DIR$/support-design" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
