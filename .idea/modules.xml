@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-design/material-design.iml" filepath="$PROJECT_DIR$/material-design/material-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-dialog/material-dialog.iml" filepath="$PROJECT_DIR$/material-dialog/material-dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-progressbar/material-progressbar.iml" filepath="$PROJECT_DIR$/material-progressbar/material-progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suppor-design/suppor-design.iml" filepath="$PROJECT_DIR$/suppor-design/suppor-design.iml" />
+    </modules>
+  </component>
+</project>
