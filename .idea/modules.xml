@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/material-design/material-design.iml" filepath="$PROJECT_DIR$/material-design/material-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/material-dialog/material-dialog.iml" filepath="$PROJECT_DIR$/material-dialog/material-dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/material-progressbar/material-progressbar.iml" filepath="$PROJECT_DIR$/material-progressbar/material-progressbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/support-design/support-design.iml" filepath="$PROJECT_DIR$/support-design/support-design.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':material-dialog', ':material-progressbar', ':support-design', ':material-design'
+include ':app', ':material-dialog', ':material-progressbar', ':material-design'
