@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/MaterialDesign.iml" filepath="$PROJECT_DIR$/MaterialDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/material-design/material-design.iml" filepath="$PROJECT_DIR$/material-design/material-design.iml" />
-      <module fileurl="file://$PROJECT_DIR$/material-progressbar/material-progressbar.iml" filepath="$PROJECT_DIR$/material-progressbar/material-progressbar.iml" />
     </modules>
   </component>
 </project>
